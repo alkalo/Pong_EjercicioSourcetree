@@ -10,3 +10,5 @@ Vanilla and Chocolate Pong, a very sweet pong
 ## Special Thanks
 
 - Modificar algo en github y pullear cambios.
+
+- Modificar algo en sourcetree y pushear cambios

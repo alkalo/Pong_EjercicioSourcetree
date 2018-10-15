@@ -12,3 +12,5 @@ Vanilla and Chocolate Pong, a very sweet pong
 - Modificar algo en github y pullear cambios.
 
 - Modificar algo en sourcetree y pushear cambios
+
+- Modificar el interior de un archivo dentro de la rama dev
